@@ -1,5 +1,7 @@
-https://www.estuaryoss.github.io/index.html
-https://www.estuaryoss.github.io/pages/deployer.html
-https://www.estuaryoss.github.io/pages/agent.html
-https://www.estuaryoss.github.io/pages/discovery.html
-https://www.estuaryoss.github.io/pages/viewer.html
+https://estuaryoss.github.io/index.html
+https://estuaryoss.github.io/pages/deployer.html
+https://estuaryoss.github.io/pages/agent.html
+https://estuaryoss.github.io/pages/discovery.html
+https://estuaryoss.github.io/pages/viewer.html
+https://estuaryoss.github.io/pages/cli.html
+https://estuaryoss.github.io/pages/cicd.html
